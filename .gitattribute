@@ -1,0 +1,4 @@
+*.java linquist-detectable=true
+*.html linquist-detectable=true
+*.css linquist-detectable=true
+*.js linquist-detectable=true
