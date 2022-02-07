@@ -1,0 +1,14 @@
+Farm\Controller\RequestCtrl.class
+Farm\Controller\EquipmentCtrl.class
+Farm\Controller\FertilizerCtrl.class
+Farm\Model\EquipmentDB.class
+Farm\Controller\CropCtrl.class
+Farm\Model\RequestDB.class
+Farm\Model\CropDB.class
+Farm\Model\InsecticideDB.class
+Farm\Consumed.class
+Farm\Controller\UserCtrl.class
+Farm\DBConnect.class
+Farm\Model\FertilizerDB.class
+Farm\Controller\InsecticideCtrl.class
+Farm\Model\UserDB.class

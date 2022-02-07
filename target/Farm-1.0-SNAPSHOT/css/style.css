@@ -1,0 +1,17 @@
+
+.full-screen {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.carousel .carousel-inner img {
+    display:block;
+    object-fit: cover;
+}
+.jumbotron
+{
+	background: #00e676;
+	margin-bottom:0%;
+    height: 100vh;
+    width: 100%;
+}
