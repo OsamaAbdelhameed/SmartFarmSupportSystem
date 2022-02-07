@@ -1,4 +1,4 @@
-*.java linquist-detectable=true
-*.html linquist-detectable=true
-*.css linquist-detectable=true
-*.js linquist-detectable=true
+*.java linguist-detectable=true
+*.html linguist-detectable=true
+*.css linguist-detectable=true
+*.js linguist-detectable=true
